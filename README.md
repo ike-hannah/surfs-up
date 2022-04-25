@@ -7,6 +7,7 @@ The results from my analysis of June and December are as follows:
 * Mean temp of 74.9°F
 * Min temp of 64°F
 * Max temp of 85°F
+<br>
 ![Screen Shot 2022-04-25 at 2 02 21 PM](https://user-images.githubusercontent.com/65744738/165147782-4155744d-f9d8-4b0d-a5b7-32b077629af5.png)
 
 
@@ -14,6 +15,7 @@ The results from my analysis of June and December are as follows:
 * Mean temp of 71°F
 * Min temp of 56°F
 * Max temp of 83°F
+<br>
 ![Screen Shot 2022-04-25 at 2 08 50 PM](https://user-images.githubusercontent.com/65744738/165148312-dbb477aa-8405-4096-8d9b-c767a7b70668.png)
 
 
